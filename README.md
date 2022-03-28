@@ -1,2 +1,7 @@
-# codegeneratorshainton2022
-Code for my Hainton .NET session on .NET source/code generators March 29th 2022
+# .NET Code Generators Presentation (Hainton Mar 2022)
+
+This repository contains the PDF Slide deck and sample code
+ that I used in my .NET presentation on the new .NET code 
+ Generators feature, presented at Tusparc in Newcastle on March 29th 2022
+
+
