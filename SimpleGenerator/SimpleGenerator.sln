@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGenerator", "SimpleGenerator\SimpleGenerator.csproj", "{E2ED823C-D2C5-4ED1-ADEF-F523CAE94F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGeneratorTest", "SimpleGeneratorTest\SimpleGeneratorTest.csproj", "{8DC7A05C-47C8-43AB-A5D7-3A7520E84791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2ED823C-D2C5-4ED1-ADEF-F523CAE94F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2ED823C-D2C5-4ED1-ADEF-F523CAE94F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2ED823C-D2C5-4ED1-ADEF-F523CAE94F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2ED823C-D2C5-4ED1-ADEF-F523CAE94F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC7A05C-47C8-43AB-A5D7-3A7520E84791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC7A05C-47C8-43AB-A5D7-3A7520E84791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC7A05C-47C8-43AB-A5D7-3A7520E84791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC7A05C-47C8-43AB-A5D7-3A7520E84791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
