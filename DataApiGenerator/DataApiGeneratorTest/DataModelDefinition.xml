@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Model>
+  <NameSpace Root="DigitalSolutions.Data.Models">
+    <Class Name="Person">
+      <Property Type="int" Name="Pkid" IsKey="true" />
+      <Property Type="string" Name="FirstName" IsKey="false" />
+      <Property Type="string" Name="LastName" IsKey="false" />
+      <Property Type="string" Name="Email" IsKey="false" />
+      <Property Type="decimal" Name="Salary" IsKey="false" />
+      <Property Type="int" Name="JobId" IsKey="false" />
+    </Class>
+    <Class Name="JobDefinition">
+      <Property Type="int" Name="Pkid" IsKey="true" />
+      <Property Type="string" Name="JobName" IsKey="false" />
+      <Property Type="string" Name="Description" IsKey="false" />
+      <Property Type="string" Name="Department" IsKey="false" />
+    </Class>
+  </NameSpace>
+  <DcNameSpace>DigitalSolutions.Data</DcNameSpace>
+  <DcClassName>DemoContext</DcClassName>
+  <ServicesNameSpace>DigitalSolutions.Data.Services</ServicesNameSpace>
+  <ControllersNameSpace>DigitalSolutions.Data.Controllers</ControllersNameSpace>
+</Model>

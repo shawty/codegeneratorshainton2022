@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataApiGenerator", "DataApiGenerator\DataApiGenerator.csproj", "{56832F7E-D7EF-418B-BFEF-4465FE6E5CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataApiGeneratorTest", "DataApiGeneratorTest\DataApiGeneratorTest.csproj", "{B526CC6C-C5D8-4EF3-9AC4-27FFF9A1025A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56832F7E-D7EF-418B-BFEF-4465FE6E5CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56832F7E-D7EF-418B-BFEF-4465FE6E5CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56832F7E-D7EF-418B-BFEF-4465FE6E5CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56832F7E-D7EF-418B-BFEF-4465FE6E5CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B526CC6C-C5D8-4EF3-9AC4-27FFF9A1025A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B526CC6C-C5D8-4EF3-9AC4-27FFF9A1025A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B526CC6C-C5D8-4EF3-9AC4-27FFF9A1025A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B526CC6C-C5D8-4EF3-9AC4-27FFF9A1025A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
