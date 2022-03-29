@@ -8,6 +8,15 @@ namespace SimpleGenerator
   {
     public void Initialize(GeneratorInitializationContext context)
     {
+      // If you want to debug the actual source generator, enable the #if DEBUG part below
+      // then when your IDE calls the generator, open a new copy of Visual Studio from the dialog
+      // VS2022 should allow you to actually debug this in IDE, anything else will need the debug trap
+      // #if DEBUG
+      //       if (!Debugger.IsAttached)
+      //       {
+      //         Debugger.Launch();
+      //       }
+      // #endif 
     }
 
     public void Execute(GeneratorExecutionContext context)

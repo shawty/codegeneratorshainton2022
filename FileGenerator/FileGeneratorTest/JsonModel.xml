@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+  <property type="string" xmlElementName="Name" jsonElementName="name" />
+  <property type="string" xmlElementName="Email" jsonElementName="email" />
+  <property type="int" xmlElementName="Age" jsonElementName="age" />
+</properties>

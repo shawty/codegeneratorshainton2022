@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileGenerator", "FileGenerator\FileGenerator.csproj", "{38033459-8D3B-401F-A35B-27674ACBCCE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileGeneratorTest", "FileGeneratorTest\FileGeneratorTest.csproj", "{9FB72B79-96A6-44CA-966D-F91476BFC6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38033459-8D3B-401F-A35B-27674ACBCCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38033459-8D3B-401F-A35B-27674ACBCCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38033459-8D3B-401F-A35B-27674ACBCCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38033459-8D3B-401F-A35B-27674ACBCCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB72B79-96A6-44CA-966D-F91476BFC6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB72B79-96A6-44CA-966D-F91476BFC6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB72B79-96A6-44CA-966D-F91476BFC6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB72B79-96A6-44CA-966D-F91476BFC6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
